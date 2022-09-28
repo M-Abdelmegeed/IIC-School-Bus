@@ -1,0 +1,15 @@
+h1{
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px rgb(23, 15, 72);
+    align-content: center;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+#header-container{
+    text-align: center;
+}
+body{
+    background: linear-gradient(rgb(56, 165, 255),rgb(157, 218, 251));
+    background-attachment: fixed;
+}
